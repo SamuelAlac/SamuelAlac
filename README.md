@@ -1,6 +1,10 @@
-<!--
-## Hi there, I'm Samuel Vincent R. Alac 👋
--->
+<div align="center">
+
+# Hi there, I'm Samuel
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Aspiring+Full-Stack+Software+Developer;API+Integration,+AI+Integration,+Web+Development,+Mobile+Development)](https://git.io/typing-svg)
+
+</div>
 
 # Hi there, I'm Samuel
 
