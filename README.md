@@ -2,15 +2,21 @@
 
 # Hi there, I'm Samuel
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Aspiring+Full-Stack+Software+Developer;API+Integration,+AI+Integration,+Web+Development,+Mobile+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=600&size=22&duration=5000&pause=1000&width=1000&height=30&center=true&vCenter=true&lines=Aspiring+Full-Stack+Software+Developer;API+Integration%2C+AI+Integration%2C+Web+Development%2C+Mobile+Development)](https://git.io/typing-svg)
 
 </div>
 
-# Hi there, I'm Samuel
-
-Welcome to my GitHub! I'm a **full-stack developer** passionate about building modern, scalable, and user-friendly applications.
-
-## 🛠️ Tech Stack
+<div align="center">
+  
+  <p align="center">
+    <a href="https://skillicons.dev"> 
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind" />
+      <br>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,django,spring,mysql,sqlite,firebase,mongodb" />
+    </a>
+  </p>
+    
+</div>
 
 <!--
 - **Frontend**: React, Typescript, Next.js, React Router, TanStack  
@@ -20,36 +26,6 @@ Welcome to my GitHub! I'm a **full-stack developer** passionate about building m
 - **Databases**: MongoDB, Firebase, MySQL  
 - **AI & LLM Integration**: Google Gemini, Gemini + LangChain
 -->
-
-<p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="40" alt="Java" title="Java" />
-  
-  <!-- React -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
-  
-  <!-- TypeScript
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
-   -->
-  
-  <!-- Next.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js" />
-  
-  <!-- Tailwind CSS -->
-  <img src="https://logo.svgcdn.com/l/tailwindcss-icon.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
-  
-  <!-- Bootstrap -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap" />
-  
-  <!-- Node.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
-  
-  <!-- Express.js
-  <img src="https://cdn.worldvectorlogo.com/logos/expressjs.svg" height="40" alt="Express.js" title="Express.js" />
-  -->
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-  
-</p>
 
 <!--
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelAlac&show_icons=true&theme=radical)
@@ -69,8 +45,10 @@ Welcome to my GitHub! I'm a **full-stack developer** passionate about building m
 - Enhancing **AI integrations** for web and enterprise systems  
 - Experimenting with **LangChain + Gemini** for smarter automation
 -->
+<div align='center'>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-alac-7a574534b/)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/samuelonearth13)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samuelonearth/)
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-alac-7a574534b/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/samuelonearth13)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samuelonearth/)
+</div>
